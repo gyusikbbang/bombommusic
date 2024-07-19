@@ -1,0 +1,58 @@
+*{margin:0; padding:0;}
+li{list-style:none;}
+
+.recommand-section{
+    width: 100%;
+    background: url(http://image.kyobobook.co.kr/newimages/giftshop_new/resources/images/pc/main/bg_wel_md_pick.jpg) center/100% repeat;;
+	margin-bottom: 200px;
+	margin-top: 50px;
+}
+
+.md-image{
+	width: 400px;
+	margin: 0 auto;
+}
+
+.md-image img{
+	position: relative;
+	top: 10px;
+}
+
+.md-pick{
+	position: relative;
+	width: 990px;
+	margin: 0 auto;
+	height: 500px;
+	overflow:hidden;
+	margin-top: 30px;	
+}
+.slides{
+	position: absolute;
+	left: 0; top:0px;	
+}
+.slides.animated{
+	transition: 0.5s ease-out;
+	height: 500px;
+}
+.slides li{
+	width: 300px;
+	height: 450px;
+	background:#ccc;
+	float:left;
+	border-radius: 25px;
+}
+.slides li:not(:last-child){	
+	margin-right: 30px;
+}
+.controls{
+	text-align: center;
+	margin-top: 20px;
+	display: inline-block;
+}
+
+.controls span{
+	background:#333;
+	color: #fff;
+	padding:10px 20px;
+	margin:0 10px;
+}   

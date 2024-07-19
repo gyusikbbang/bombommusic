@@ -1,0 +1,85 @@
+.mdProList{
+    display: inline-block;
+}
+
+.mdPickBanner{
+    width: 1268px;
+    height: 100px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+.mdPickBanner .bannerImg{
+    width: 100%;
+    height: 150px;
+}
+
+.mdPickBanner h2{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.mdProList .mdProduct{
+    text-align: center;
+    display: inline-block;
+    width: 1000px;
+}
+
+.mdProList .detail{
+    width: 250px;   
+    display: inline-block;
+    margin-bottom: 40px;
+    margin: 0 25px;
+}
+
+.mdProList img{
+    width: 250px;   
+    height: 250px;
+    float: left;
+    border-radius: 20px;
+}
+
+.mdProList .detail .text{
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 230px;
+    height: 150px;
+    float: left;
+}
+
+.mdProList .detail #label{
+    width: 230px;
+    margin-bottom: 8px;
+    text-align: left;
+    color: #767676;
+    font-size: 14px;
+}
+
+.mdProList .detail #name{
+    width: 230px;
+    margin-bottom: 8px;
+    font-weight: 500;
+    line-height: 24px;
+    font-size: 16px;
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.mdProList .detail #price{
+    width: 230px;
+    margin-bottom: 8px;
+    line-height: 24px;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+}
+
+.mdProList .detail #info{
+    width: 230px;
+    font-weight: 500;
+    line-height: 24px;
+    font-size: 18px;
+    text-align: left;
+}

@@ -1,0 +1,38 @@
+@font-face {
+    font-family: abster;
+    src: url("font/abster-webfont.woff") format('woff');
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.footer{
+    width: 100%;
+    height: 150px;
+    background: white;
+}
+
+.footer-inner{
+    display: flex;
+    position: relative;
+    padding: 50px 50px 50px 50px;
+    justify-content: space-between;
+    width: 100%;
+    height: 250px;
+    margin: 0 auto;
+    border-top: 1px solid black;
+    text-align: center;
+}
+
+.footer-inner h1{
+    width: 500px;
+    font-size: 50px;
+}
+
+.footer-inner h1 a{
+    text-decoration: none;
+    color: black;
+    font-family: abster;
+}

@@ -1,0 +1,88 @@
+.review-input{
+    width: 1000px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    margin: 20px 0px 20px 0px;
+}
+
+.input-area .input-box{
+    width: 1000px;
+    height: 300px;
+}
+
+.input-area #review-text{
+    width: 895px;
+    height: 200px;
+}
+
+.input-area #submit{
+    width: 100px;
+    height: 200px;
+}
+
+.review-list{
+    width: 1000px;
+    height: auto;
+    min-height: 100px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.rvContent{
+    padding: 5px;
+    border-bottom: 1px solid rgb(201, 200, 200);
+    display: flex;
+    width:990px
+}
+
+.review-list h5{
+    margin: 13px 7px 0px 40px;
+    float: left;
+}
+
+.rvContent .btn{
+    margin-left: 5px;
+    margin-top: 8px;
+}
+
+.btn_open{
+    font-weight:bold; 
+    margin:5px; 
+    padding:4px 6px; 
+    background:#000; 
+    color:#fff;
+}
+
+.btn_close{
+    width: 50px;
+    height: 25px;
+    float: left;
+    margin-left: 325px;
+}
+
+.btn_close1{
+    width: 70px;
+    height: 25px;
+    float: left;
+    margin-left: 33px;
+}
+
+#submit2{
+    width: 70px;
+    height: 25px;
+    
+}
+
+.form-delete{
+    text-align: center;
+}
+
+.pop_inner1 .dsc{
+    text-align: center;
+    padding: 5px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}

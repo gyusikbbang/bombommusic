@@ -1,0 +1,129 @@
+
+* {
+  box-sizing: border-box;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.mid_section {
+  margin:0;
+  font-family: Arial, Helvetica, sans-serif;
+  display:flex;
+  flex-direction: row;
+}
+
+.side_section {
+  width: 12.5%;
+}
+
+.contents_section{
+  width: 75%;
+  margin: 0 0 0 auto;
+}
+
+p, span {
+margin: 0;
+}
+
+a {
+color: black;
+}
+
+.proImg {
+display: block;
+width: 90px;
+height: 90px;
+margin: auto;
+}
+
+.cart {
+margin: auto;
+padding: 30px;
+margin-top:160px;
+}
+
+.cart ul {
+background-color: whitesmoke;
+padding: 30px;
+margin-bottom: 25px;
+border: whitesmoke solid 1px;
+border-radius: 5px;
+font-size: 13px;
+font-weight: 300;
+}
+
+.cart ul :first-child {
+color: limegreen;
+}
+
+.cart__mainbtns {
+width: 420px;
+height: 200px;
+padding-top: 40px;
+display: block;
+margin: auto;
+}
+
+.cart__bigorderbtn {
+width: 200px;
+height: 50px;
+font-size: 16px;
+margin: auto;
+border-radius: 5px;
+}
+
+.cart__bigorderbtn.left {
+background-color: white;
+border: 1px lightgray solid;
+}
+
+.cart__bigorderbtn.right {
+background-color: limegreen;
+color: white;
+border: none;
+}
+
+table {
+width: 1100px;
+text-align: center;
+border: 1px solid #fff;
+font-family: 'Cairo', sans-serif;
+margin: auto;
+}
+
+caption {
+font-weight: bold;
+}
+
+table td {
+padding: 10px;
+background-color: #eee; 
+}
+
+table th {
+background-color: #8b8b8b;
+color: #fff;
+padding: 10px;
+}
+table tr td input .count{
+	height:30px;
+}
+.view,
+.delete {
+border: none;
+padding: 5px 10px;
+color: #fff;
+font-weight: bold;
+}
+
+.view {
+background-color: #03A9F4;
+}
+
+.delete {
+background-color: #E91E63;
+}

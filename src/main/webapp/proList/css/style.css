@@ -1,0 +1,50 @@
+.proList{
+    display: flex;
+    width: 1250px;
+}
+
+.proList_slide{
+    height: 595px;
+}
+
+.image_container{
+    position: relative;
+    width: 300vw;
+    transition: transform 0.5s;
+}
+
+.inner{
+    width: 100vw;
+    float: left;
+}
+
+.inner img{
+    width: 300vw;
+    height: 350px;
+}
+
+.proList_slide .controls{
+    width: 100vw;
+	text-align: center;
+    position: absolute;
+    margin-top: 342.535px;
+}
+
+.proList_slide .controls .next{
+	background:#333;
+	color: #fff;
+	padding: 10px 20px;
+    margin-left: 10px;
+}   
+
+.proList_slide .controls .prev{
+	background:#333;
+	color: #fff;
+	padding: 10px 20px;
+}   
+
+.slide-btn{
+    text-align: center;
+    left: 10px;
+    position: relative;
+}
