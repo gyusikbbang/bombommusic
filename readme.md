@@ -32,7 +32,6 @@
 | **Library** | ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white) |
 | **API** | ![Kakao Login](https://img.shields.io/badge/Kakao%20Login-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black) ![Web Speech API](https://img.shields.io/badge/Web%20Speech%20API-4285F4?style=flat-square&logo=google&logoColor=white) |
 | **Server** | ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-000000?style=flat-square&logo=apachetomcat&logoColor=white) |
-| **Version Control** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 | **Build Tool** | ![Eclipse](https://img.shields.io/badge/Eclipse%20Web-2C2255?style=flat-square&logo=eclipseide&logoColor=white) |
 | **Web Technology** | ![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white) |
 
