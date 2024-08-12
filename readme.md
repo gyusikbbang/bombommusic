@@ -50,7 +50,7 @@
 
 1. 메인 페이지
 
-![봄봄 뮤직](https://github.com/user-attachments/assets/4c11c68f-0c67-4f7a-8b44-bac4d105bcbf)
+
 
 
 
@@ -59,12 +59,12 @@
 2. 검색 페이지
 
 
-![봄봄_검색](https://github.com/user-attachments/assets/72038945-a267-41fd-a8a4-6e1a95db0439)
+
 
 
 3. 카테고리, 라벨 페이지
 
-![봄봄_카테고리,라벨](https://github.com/user-attachments/assets/a2282bbf-228b-469a-82e4-5d26bff4ef4b)
+
    
 
 ## 핵심 기능
@@ -78,7 +78,7 @@
     
   - 카카오 로그인
 
-    ![봄봄_카카오 로그인](https://github.com/user-attachments/assets/ae842b96-9bf4-4121-bbfc-177b770c9b91)
+ 
 
     
   - 카카오 회원가입
@@ -86,14 +86,14 @@
 
 2. 장바구니 및 구매
   
-![봄봄_장바구니_구매](https://github.com/user-attachments/assets/80578821-31b7-40e2-abac-3501a008373c)
+
 
  
     
 
 3. 리뷰 등록
    
-  ![봄봄_리뷰 등록](https://github.com/user-attachments/assets/f626d9b8-3033-45bc-bc5c-5b176a1e7a33)
+
 
   
 
